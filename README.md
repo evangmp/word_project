@@ -1,11 +1,11 @@
 # word_project
-en Java, pas encore d'interface graphique (j'ai tenté un truc avec Swing mais vraiment trop chiant et pas terrible, donc je vais voir).
+en Java, pas encore d'interface graphique (je test actuellement des trucs avec Swing, pas terrible mais pour avoir une idée, je vais bientôt voir pour les formations sur OpenClassroom (Maven et Sping Boot)).
 
 Plusieurs trucs importants : 
 - changer la variable "url" avec le bon chemin sur ton pc menant vers la base de donnée 
 il y a dans : Print.java, Print_list_word.java, Learn_algo.java (1 fois à chaque fois).
 
-- bien ajouter les 4 fichiers dans lib et dans l'IDE les mettre en tant que : "add to library" (dans le fichier lib ou dans un autre).
+- bien ajouter les 4 fichiers dans le dossier lib et dans l'IDE les mettre en tant que : "add to library" (dans le fichier lib ou dans un autre).
 - aussi le package Data qui relie tous les fichiers dans "src" (sur IntelliJ).
 
 
